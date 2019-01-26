@@ -1,0 +1,6 @@
+openpyxl
+imaplib
+email
+xlrd
+rarfile
+smtplib
