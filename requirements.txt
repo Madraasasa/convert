@@ -4,3 +4,4 @@ email
 xlrd
 rarfile
 smtplib
+/app/UnRAR.exe
