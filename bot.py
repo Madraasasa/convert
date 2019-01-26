@@ -70,7 +70,7 @@ def get_email():
     print(a)
     aa=len(a)
 
-    rarfile.UNRAR_TOOL = 'rarfiles.lst'
+    rarfile.UNRAR_TOOL = 'Unrar'
     print(b[1],b[0])
     z.extract(b[1])
     z.extract(b[0])
