@@ -3,12 +3,14 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 
 [packages]
+pyTelegramBotAPI="*"
+requests="*"
+telegraphapi="*"
 openpyxl="*"
-imaplib="*"
-email="*"
-xlrd="*"
-rarfile="*"
-smtplib="*"
+psycopg2="*"
+SpeechRecognition="*"
+pydub="*"
+bs4="*"
 
 [requires]
 python_version = "3.6"
