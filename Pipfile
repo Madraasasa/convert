@@ -11,6 +11,7 @@ psycopg2="*"
 SpeechRecognition="*"
 pydub="*"
 bs4="*"
+xlrd="1.2.0"
 
 [requires]
 python_version = "3.6"
