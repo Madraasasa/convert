@@ -12,6 +12,7 @@ SpeechRecognition="*"
 pydub="*"
 bs4="*"
 xlrd="*"
+rarfile="*"
 
 [requires]
 python_version = "3.6"
